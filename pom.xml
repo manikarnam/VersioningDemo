@@ -17,9 +17,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</connection>
-        <developerConnection>scm:git:git@github.com:kalaspuffar/VersioningDemo.git</developerConnection>
-        <url>https://github.com/kalaspuffar/VersioningDemo</url>
+        <connection>git@github.com:manikarnam/VersioningDemo.git</connection>
+        <developerConnection>git@github.com:manikarnam/VersioningDemo.git</developerConnection>
+        <url>https://github.com/manikarnam/VersioningDemo</url>
         <tag>@{project.version}</tag>
     </scm>
 
